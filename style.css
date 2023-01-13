@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+  }
+  
+  svg {
+    display: block;
+    margin: auto;
+    background-color: #87CEEB;
+    justify-content: center;
+  }
+  
+  .bar:hover{
+      fill: #87CEEB
+  }
